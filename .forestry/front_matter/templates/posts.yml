@@ -10,4 +10,4 @@ fields:
   default: post
 pages:
 - _posts/hello.md
-- _posts/test-post.md
+- _posts/2018-09-01-test-post.md
