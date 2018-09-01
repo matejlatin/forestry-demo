@@ -17,6 +17,8 @@ fields:
   type: datetime
   hidden: false
   default: ''
+  config:
+    required: true
 - name: tags
   label: Tags
   type: tag_list
